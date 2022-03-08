@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="insta_blue">#3f729b</color>
+    <color name="colorPrimaryDark">#FF0000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF4500</color>
+    <color name="green">#558b2f</color>
+    <color name="white_smoke">#F6F5F5</color>
+    <color name="dark_green">#1faa00</color>
+    <color name="smoke_white">#e3e3e3</color>
+    <color name="light_grey">#DCDCDC</color>
+    <color name="lightgrey">#C0C0C0</color>
+    <color name="trans_black">#66000000</color>
+    <color name="colorSecondaryText">#737373</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#737373</color>
+    <color name="colorMap">#FAE6D6</color>
+    <color name="light_green">#68DA59</color>
+    <color name="gradientMainStart">#F94F7C</color>
+    <color name="gradientMainEnd">#FA6B2F</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_video_transparent">#88000000</color>
+    <color name="color_black">#000000</color>
+    <color name="color_unplayed">#323232</color>
+    <color name="color_buffered">#b2b2b2</color>
+    <color name="light_orange">#fed8b1</color>
+    <color name="light_pink">#e4cccc</color>
+    <!--    <color name="orange">#ec6608</color>-->
+    <color name="gray">#252525</color>
+    <color name="light_gray">#919090</color>
+</resources>
